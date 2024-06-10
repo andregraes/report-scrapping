@@ -1,0 +1,21 @@
+Corrente contínua
+6007
+Carlos Ferreira
+Identificar as principais grandezas de um circuito elétrico e respetiva simbologia.
+Enunciar e aplicar a Lei de Ohm.
+Identificar os vários métodos de medida usados em eletrotecnia.
+Utilizar corretamente os aparelhos de medida.
+Calcular erros de medida.
+Enunciar e aplicar a lei de Joule.
+Identificar as grandezas energia e potência elétrica e respetivas unidades SI e práticas.
+Relacionar as grandezas: características de um gerador em vazio e em carga.
+As grandezas mais importantes do circuito eléctrico
+A lei de Ohm
+A lei de Joule
+Os aparelhos e técnicas de medida
+Associação de resistências
+Energia e potência elétrica. Rendimento
+Geradores e receptores
+
+19811978197019641962
+repsol resinas - técnico informático
